@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Naiden\\dev\\AspireDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D054EA1A-22AA-4976-B7B6-748B9642894C}|AspireDemo.ApiService\\AspireDemo.ApiService.csproj|c:\\naiden\\dev\\aspiredemo\\aspiredemo.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D054EA1A-22AA-4976-B7B6-748B9642894C}|AspireDemo.ApiService\\AspireDemo.ApiService.csproj|solutionrelative:aspiredemo.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE43FB65-DEF6-46EA-A76D-15968F5991BC}|AspireDemo.Web\\AspireDemo.Web.csproj|c:\\naiden\\dev\\aspiredemo\\aspiredemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE43FB65-DEF6-46EA-A76D-15968F5991BC}|AspireDemo.Web\\AspireDemo.Web.csproj|solutionrelative:aspiredemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F14FE05-BD24-4131-BB89-FC819BDEB9AF}|AspireDemo.AppHost\\AspireDemo.AppHost.csproj|c:\\naiden\\dev\\aspiredemo\\aspiredemo.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F14FE05-BD24-4131-BB89-FC819BDEB9AF}|AspireDemo.AppHost\\AspireDemo.AppHost.csproj|solutionrelative:aspiredemo.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Naiden\\dev\\AspireDemo\\AspireDemo.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "AspireDemo.ApiService\\Program.cs",
+              "ToolTip": "C:\\Naiden\\dev\\AspireDemo\\AspireDemo.ApiService\\Program.cs",
+              "RelativeToolTip": "AspireDemo.ApiService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:51:06.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Naiden\\dev\\AspireDemo\\AspireDemo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AspireDemo.Web\\Program.cs",
+              "ToolTip": "C:\\Naiden\\dev\\AspireDemo\\AspireDemo.Web\\Program.cs",
+              "RelativeToolTip": "AspireDemo.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:50:53.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Naiden\\dev\\AspireDemo\\AspireDemo.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "AspireDemo.AppHost\\Program.cs",
+              "ToolTip": "C:\\Naiden\\dev\\AspireDemo\\AspireDemo.AppHost\\Program.cs",
+              "RelativeToolTip": "AspireDemo.AppHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:49:10.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\bin\Debug\net8.0\AspireDemo.ServiceDefaults.deps.json
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\bin\Debug\net8.0\AspireDemo.ServiceDefaults.dll
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\bin\Debug\net8.0\AspireDemo.ServiceDefaults.pdb
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\AspireDemo.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\AspireDemo.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\AspireDemo.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\AspireDemo.ServiceDefaults.AssemblyInfo.cs
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\AspireDemo.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\AspireDemo.ServiceDefaults.sourcelink.json
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\AspireDemo.ServiceDefaults.dll
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\refint\AspireDemo.ServiceDefaults.dll
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\AspireDemo.ServiceDefaults.pdb
+C:\Naiden\dev\AspireDemo\AspireDemo.ServiceDefaults\obj\Debug\net8.0\ref\AspireDemo.ServiceDefaults.dll
